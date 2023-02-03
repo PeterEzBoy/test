@@ -1,4 +1,4 @@
 {
     "type": "commonjs",
-    "app_build_command": "build"
+    "app_build_command": "npm run build"
 }
